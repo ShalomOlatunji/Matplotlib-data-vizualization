@@ -1,4 +1,4 @@
-This is my Module 4 assignment using Matplotlib and Seaborn to explore monthly airline passenger numbers.
+This is my Module 3 assignment using Matplotlib and Seaborn to explore monthly airline passenger numbers.
 
 I used Seaborn's public flights dataset, covering 1949–1960. Passenger totals are measured in thousands.
 Charts
